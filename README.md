@@ -4,6 +4,7 @@ I will gather here all the machines that I found online (exloding machines on HT
 Credit to H4x0r101 for the inital list: https://medium.com/@h4x0r101/damn-vulnerable-applications-c4e286832147
 
 **Web Applications**
+
 Web Application: https://github.com/ethicalhack3r/DVWA 
 Web Applications: https://github.com/s4n7h0/xvwa 
 Word Press: https://github.com/vianasw/dvwps 
