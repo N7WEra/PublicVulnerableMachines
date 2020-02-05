@@ -5,7 +5,7 @@ Credit to H4x0r101 for the inital list: https://medium.com/@h4x0r101/damn-vulner
 
 
 
-**Web Applications**
+##Web Applications
 
 Web Application: https://github.com/ethicalhack3r/DVWA
 
@@ -26,7 +26,7 @@ OWASP Juice Shop: https://github.com/bkimminich/juice-shop
 Ruby: https://github.com/cktricky/railsgoat
 
 
-**Web Service Applications**
+##Web Service Applications
 
 Web Service: https://github.com/snoopysecurity/dvws 
 
