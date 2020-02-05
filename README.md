@@ -1,4 +1,4 @@
-# PublicVulnerableMachines
+# Machines that are vulnerable by design
 I will gather here all the machines that I found online (exloding machines on HTB, VulnHub and etc) that are vulnarble by desgin for training purposes.
 
 Credit to H4x0r101 for the inital list: https://medium.com/@h4x0r101/damn-vulnerable-applications-c4e286832147
