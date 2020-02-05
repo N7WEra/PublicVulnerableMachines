@@ -5,7 +5,7 @@ Credit to H4x0r101 for the inital list: https://medium.com/@h4x0r101/damn-vulner
 
 
 
-##Web Applications
+## Web Applications
 
 Web Application: https://github.com/ethicalhack3r/DVWA
 
@@ -26,7 +26,7 @@ OWASP Juice Shop: https://github.com/bkimminich/juice-shop
 Ruby: https://github.com/cktricky/railsgoat
 
 
-##Web Service Applications
+## Web Service Applications
 
 Web Service: https://github.com/snoopysecurity/dvws 
 
@@ -35,19 +35,19 @@ API: https://github.com/payatu/Tiredful-API/
 SSO: https://github.com/0xbharath/vulnerable-sso
  
 
-**Source Code**
+## Source Code
 
 Source Code: https://github.com/h4x0r101/Damn-Vulnerable-Source-Code 
  
 
-**Thick Client**
+## Thick Client
 
 Thick Client Application: https://github.com/secvulture/dvta 
 
 Java EE: https://github.com/appsecco/dvja 
  
 
-**Mobile Application**
+## Mobile Application
 
 iOS Swift: https://github.com/prateek147/DVIA-v2 
 
@@ -60,7 +60,7 @@ Android: https://hakin9.org/evabs-extremely-vulnerable-android-labs/
 Hybrid Mobile Application: https://github.com/logicalhacking/DVHMA 
  
 
-**Crypto & Block Chain**
+## Crypto & Block Chain**
 
 Crypto Wallet : https://gitlab.com/badbounty/dvcw 
 
