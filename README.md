@@ -36,7 +36,8 @@ Web Service: https://github.com/snoopysecurity/dvws
 API: https://github.com/payatu/Tiredful-API/ 
 
 SSO: https://github.com/0xbharath/vulnerable-sso
- 
+
+Hadoop: https://github.com/wavestone-cdt/hadoop-attack-library/tree/master/Tools%20Techniques%20and%20Procedures/Setting%20up%20an%20Hadoop%20attack%20environment
 
 
 ### Source Code
