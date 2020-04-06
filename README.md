@@ -26,6 +26,10 @@ OWASP Juice Shop: https://github.com/bkimminich/juice-shop
 
 Ruby: https://github.com/cktricky/railsgoat
 
+Lesser Known Web Attack Lab: https://github.com/weev3/LKWA
+
+over 50+ examples of vulnerabilities and guides for specific attacks: https://github.com/blabla1337/skf-labs
+
 
 
 
