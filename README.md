@@ -114,6 +114,8 @@ Function-as-a-service (AWS Lambda): https://github.com/we45/DVFaaS-Damn-Vulnera
 Serverless Application: https://github.com/OWASP/DVSA 
 
 Kubernetes: https://www.bustakube.com/  
+
+Kubernetes Goat: https://github.com/madhuakula/kubernetes-goat
  
 
 ### IoT and Hardware
