@@ -118,6 +118,8 @@ Serverless Application: https://github.com/OWASP/DVSA
 Kubernetes: https://www.bustakube.com/  
 
 Kubernetes Goat: https://github.com/madhuakula/kubernetes-goat
+
+CloudGoat 2 (AWS): https://github.com/RhinoSecurityLabs/cloudgoat
  
 
 ### IoT and Hardware
