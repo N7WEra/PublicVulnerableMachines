@@ -57,6 +57,8 @@ Source Code: https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
 Thick Client Application: https://github.com/secvulture/dvta 
 
 Java EE: https://github.com/appsecco/dvja 
+
+NetSPI BetaFast: https://github.com/NetSPI/BetaFast
  
 
 
