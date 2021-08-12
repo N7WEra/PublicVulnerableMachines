@@ -130,6 +130,7 @@ Kubernetes Goat: https://github.com/madhuakula/kubernetes-goat
 
 CloudGoat 2 (AWS): https://github.com/RhinoSecurityLabs/cloudgoat
  
+GCP Goat: https://gcpgoat.joshuajebaraj.com/about.html
 
 ### IoT and Hardware
 
