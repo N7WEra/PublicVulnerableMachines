@@ -37,7 +37,9 @@ over 50+ examples of vulnerabilities and guides for specific attacks: https://gi
 
 Web Service: https://github.com/snoopysecurity/dvws 
 
-API: https://github.com/payatu/Tiredful-API/ 
+API: https://github.com/payatu/Tiredful-API/
+
+API: https://github.com/OWASP/crAPI
 
 websheep - API: https://github.com/marmicode/websheep
 
