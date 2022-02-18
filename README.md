@@ -56,6 +56,7 @@ Source Code: https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
 
 Damn Vulnerable C Program : https://github.com/hardik05/Damn_Vulnerable_C_Program
  
+Terraform : https://github.com/bridgecrewio/terragoat
 
 
 ### Thick Client
