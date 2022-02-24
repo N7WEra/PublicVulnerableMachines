@@ -135,6 +135,8 @@ CloudGoat 2 (AWS): https://github.com/RhinoSecurityLabs/cloudgoat
  
 GCP Goat: https://gcpgoat.joshuajebaraj.com/about.html
 
+Azure WebGoat: https://github.com/XMCyber/XMGoat
+
 ### IoT and Hardware
 
 IoT: https://github.com/Vulcainreo/DVID 
