@@ -49,6 +49,8 @@ Hadoop: https://github.com/wavestone-cdt/hadoop-attack-library/tree/master/Tools
 
 GraphQL: https://github.com/david3107/graphql-security-labs
 
+Ouath2: https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
+
 
 ### Source Code
 
