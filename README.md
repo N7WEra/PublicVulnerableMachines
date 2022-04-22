@@ -137,6 +137,8 @@ GCP Goat: https://gcpgoat.joshuajebaraj.com/about.html
 
 Azure WebGoat: https://github.com/XMCyber/XMGoat
 
+CI/CD-Goat : https://github.com/cider-security-research/cicd-goat
+
 ### IoT and Hardware
 
 IoT: https://github.com/Vulcainreo/DVID 
