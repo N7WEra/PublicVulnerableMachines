@@ -30,6 +30,7 @@ Lesser Known Web Attack Lab: https://github.com/weev3/LKWA
 
 over 50+ examples of vulnerabilities and guides for specific attacks: https://github.com/blabla1337/skf-labs
 
+NotSoCereal-Lab: A Deserialization exploit playground: https://github.com/NotSoSecure/NotSoCereal-Lab
 
 
 
