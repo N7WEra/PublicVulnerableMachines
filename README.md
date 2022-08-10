@@ -142,6 +142,9 @@ Azure WebGoat: https://github.com/XMCyber/XMGoat
 
 CI/CD-Goat : https://github.com/cider-security-research/cicd-goat
 
+AWSGoat : https://github.com/ine-labs/AWSGoat
+
+
 ### IoT and Hardware
 
 IoT: https://github.com/Vulcainreo/DVID 
