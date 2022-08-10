@@ -144,6 +144,8 @@ CI/CD-Goat : https://github.com/cider-security-research/cicd-goat
 
 AWSGoat : https://github.com/ine-labs/AWSGoat
 
+AzureGoat :https://github.com/ine-labs/AzureGoat
+
 
 ### IoT and Hardware
 
